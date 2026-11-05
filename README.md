@@ -3,7 +3,7 @@
 Proyecto desarrollado por estudiantes de 1º DAW en EFA Moratalaz.
 
 
-Somos un grupo conformado por cuatro estudiantes de programación de 1º DAW en EFA Moratalaz y hemos desarrollado un juego inspirado en el famoso formato **“Atrapa un Millón”**.
+Somos un grupo conformado por cinco estudiantes de programación de 1º DAW en EFA Moratalaz y hemos desarrollado un juego inspirado en el famoso formato **“Atrapa un Millón”**.
 
 El objetivo del juego es responder correctamente una serie de preguntas para conservar la mayor cantidad de dinero posible hasta llegar a la ronda final.
 
